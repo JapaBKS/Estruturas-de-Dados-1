@@ -1,2 +1,0 @@
-A intercala do exercício é o algoritmo Insertion-Sort com complexidade O(n^2). O algoritmo funciona sem o array auxiliar mas deixa de ser O(n). Portanto fica
-ineficiente e o Merge-Sort deixa de ser O(n log n).
