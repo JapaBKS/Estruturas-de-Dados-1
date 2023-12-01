@@ -1,0 +1,1 @@
+Nenhuma das otimizações funciona adequadamente. Não é difícil achar entradas que produzem ordenações erradas.
